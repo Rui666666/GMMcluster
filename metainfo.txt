@@ -1,0 +1,11 @@
+Name of Quantlet: GMMcluster
+
+Published in: 'Metis Variational Bayes'
+
+Description: 'Clustering CRIX Currency Index and its volatility VCRIX with Gaussian Mixture Model (GMM)'
+
+Keywords: 'Clustering, Gaussian Mixture Model, Currency Index, CRIX, VCRIX'
+
+Author: Rui Ren
+
+Submitted: 'Wed, Jan 9 2019 by Rui Ren'
